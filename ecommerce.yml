@@ -1,0 +1,11 @@
+token:
+  expiration_time: 8640000
+  secret: user_token
+
+gateway:
+  ip: 192.168.43.84
+
+# callbot 프로퍼티
+callbotProperties:
+  time1: 3
+  time2: 3
